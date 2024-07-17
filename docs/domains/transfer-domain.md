@@ -19,7 +19,7 @@ The auth code enables you to move your domain from one registrar to an other. Th
 
 ### Websupport
 ::: details
-1. Log into your account at [websupport.se](https://auth.websupport.se/?s=cart&l=sv&c=websupport.se) and go to my services/mina tjänster ![alt text](image.png)
+1. Log into your account at [websupport.se](https://auth.websupport.se/?s=cart&l=sv&c=websupport.se) and go to my services/mina tjänster ![alt text](images/dns.png)
 
 2. Click on the domain/Domäner-tab and then click on your domain ![alt text](images/dns-1.png)
 3. Click on the "Hämta Auktoriseringskod", copy the code and send it to us ![alt text](images/dns-15.png)

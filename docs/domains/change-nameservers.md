@@ -79,7 +79,7 @@ Our name servers are:
 
 ### Websupport
 ::: details
-1. Log into your account at [websupport.se](https://auth.websupport.se/?s=cart&l=sv&c=websupport.se) and go to my services/mina tjänster ![alt text](image.png)
+1. Log into your account at [websupport.se](https://auth.websupport.se/?s=cart&l=sv&c=websupport.se) and go to my services/mina tjänster ![alt text](images/dns.png)
 2. Click on the domain/Domäner-tab and then click on your domain ![alt text](images/dns-1.png)
 3. Click DNS and Namnservrar in the menu to the left ![alt text](images/dns-2.png)
 4. If DNSSEC is active, contact us to receive a new set of DNSSEC keys. Then, go to DNS and DNSSEC in the menu to the left and click on "Lägg till DNSSEC-record" ![alt text](images/dns-5.png)
