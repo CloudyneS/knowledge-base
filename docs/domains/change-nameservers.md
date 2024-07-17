@@ -28,7 +28,7 @@ If you are having trouble identifying where to search for these settings, you ca
 
 ### Websupport
 ::: details
-1. Log into your account at [websupport.se](https://auth.websupport.se/?s=cart&l=sv&c=websupport.se) and go to my services/mina tjänster ![alt text](image.png)
+1. Log into your account at [websupport.se](https://auth.websupport.se/?s=cart&l=sv&c=websupport.se) and go to my services/mina tjänster ![alt text](./images/dns.png)
 
 2. Click on the domain/Domäner-tab and then click on your domain ![alt text](images/dns-1.png)
 3. Choose DNS and then BIND Export/BIND filexport in the menu to the left ![alt text](images/dns-2.png)
