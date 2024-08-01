@@ -5,10 +5,10 @@ const sidebar = [
     text: 'Home',
     link: '/'
   },
-  {
-    text: 'Documentation',
-    link: '/doc-index'
-  },
+  // {
+  //   text: 'Documentation',
+  //   link: '/doc-index'
+  // },
   {
     text: 'Domains',
     items: [
@@ -22,29 +22,35 @@ const sidebar = [
     items: [
       { text: 'Single Sign-on', link: '/websites/wordpress-sso' },
       { text: 'Sending Emails', link: '/websites/sending-emails' },
-      { text: 'Media Settings', link: '/websites/media-settings' },
+      // { text: 'Media Settings', link: '/websites/media-settings' },
     ]
   },
   {
-    text: 'Emails',
+    text: 'Keeper Admin',
     items: [
-      { text: 'A', link: '/emails/prepare-migration/google-create-admin-account' },
-    ]
-  },
-  {
-    text: 'Microsoft 365',
-    items: [
-      { text: 'A', link: '/emails/change-nameservers' },
-      { text: 'B', link: '/emails/transfer-domain' }
-    ]
-  },
-  {
-    text: 'Templates',
-    items: [
-      { text: 'Markdown Examples', link: '/markdown-examples' },
-      { text: 'Runtime API Examples', link: '/api-examples' }
+      { text: 'Add Users (SSO)', link: '/keeper/add-user-sso' }
     ]
   }
+  // {
+  //   text: 'Emails',
+  //   items: [
+  //     { text: 'A', link: '/emails/prepare-migration/google-create-admin-account' },
+  //   ]
+  // },
+  // {
+  //   text: 'Microsoft 365',
+  //   items: [
+  //     { text: 'A', link: '/emails/change-nameservers' },
+  //     { text: 'B', link: '/emails/transfer-domain' }
+  //   ]
+  // },
+  // {
+  //   text: 'Templates',
+  //   items: [
+  //     { text: 'Markdown Examples', link: '/markdown-examples' },
+  //     { text: 'Runtime API Examples', link: '/api-examples' }
+  //   ]
+  // }
 ];
 
 const svSidebar = [
@@ -52,10 +58,10 @@ const svSidebar = [
     text: 'Start',
     link: '/sv/'
   },
-  {
-    text: 'Dokumentation',
-    link: '/sv/doc-index'
-  },
+  // {
+  //   text: 'Dokumentation',
+  //   link: '/sv/doc-index'
+  // },
   {
     text: 'Domäner',
     items: [
@@ -63,26 +69,26 @@ const svSidebar = [
       { text: 'Flytta Domän', link: '/sv/domains/transfer-domain' }
     ]
   },
-  {
-    text: 'Webbplatser',
-    items: [
-      { text: 'A', link: '/websites/change-nameservers' },
-      { text: 'B', link: '/websites/transfer-domain' }
-    ]
-  },
-  {
-    text: 'E-post',
-    items: [
-      { text: 'A', link: '/emails/prepare-migration/google-create-admin-account' },
-    ]
-  },
-  {
-    text: 'Microsoft 365',
-    items: [
-      { text: 'A', link: '/emails/change-nameservers' },
-      { text: 'B', link: '/emails/transfer-domain' }
-    ]
-  }
+  // {
+  //   text: 'Webbplatser',
+  //   items: [
+  //     { text: 'A', link: '/websites/change-nameservers' },
+  //     { text: 'B', link: '/websites/transfer-domain' }
+  //   ]
+  // },
+  // {
+  //   text: 'E-post',
+  //   items: [
+  //     { text: 'A', link: '/emails/prepare-migration/google-create-admin-account' },
+  //   ]
+  // },
+  // {
+  //   text: 'Microsoft 365',
+  //   items: [
+  //     { text: 'A', link: '/emails/change-nameservers' },
+  //     { text: 'B', link: '/emails/transfer-domain' }
+  //   ]
+  // }
 ];
 
 
